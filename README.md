@@ -6,4 +6,4 @@ helps in finding the errors easily.In the traditional testbench we have give inp
 we have to look the waveforms to verify the output whereas in the random test generator,it generates multiple inputs cases and 
 compares with the reference model to verify output
 <br>
-This makes our work easy and finds errors even in the corner cases.
+This makes our work easy and find even corner case errors.
